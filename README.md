@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **sajjanpaudel811@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjanpaudel&" alt="sajjanpaudel" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjanpaudel&theme=transparent" alt="GitHub Streak" /></a>
