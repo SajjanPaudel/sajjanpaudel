@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjanpaudel&label=Profile%20views&color=0e75b6&style=flat" alt="sajjanpaudel" /> </p>
 <p align="left"> <a href="https://twitter.com/aadrisyaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadrisyaa?logo=twitter&style=for-the-badge" alt="aadrisyaa" /></a> </p>
 
-- 🔭 I’m currently working on **Multivariate Prediction Models**
+- 🔭 I’m currently working on **Multivariate Time Series Prediction Models**
 
 - 📫 How to reach me **sajjanpaudel811@gmail.com**
 
