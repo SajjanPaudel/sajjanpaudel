@@ -8,6 +8,6 @@
 
 - 📫 How to reach me **sajjanpaudel811@gmail.com**
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sajjanpaudel}&theme={github_dark}
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sajjanpaudel}&theme={github_dark}"/></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjanpaudel&theme=transparent" alt="GitHub Streak" /></a>
